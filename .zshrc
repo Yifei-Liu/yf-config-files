@@ -81,7 +81,7 @@ POWERLEVEL9K_MODE="awesome-patched"
 plugins=(git)
 plugins=(zsh-autosuggestions)
 
-#ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=10'
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=10'
 
 #source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $ZSH/oh-my-zsh.sh
