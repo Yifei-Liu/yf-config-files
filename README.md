@@ -2,7 +2,7 @@
 
 The repository contains some configuration files I used for study and work. The initial aim of this repo is to store my vim .vimrc file, but I would like to share more configuration files.
 
-Put the `.vimrc` file in `~/.vimrc`
+Put the `.vimrc` file in `~/.vimrc`, for the color scheme, I use molokai: https://github.com/tomasr/molokai
 
 For tmux configuration, put `tmux.conf` in `~/.tmux.conf`
 
