@@ -5,3 +5,5 @@ The repository contains some configuration files I used for study and work. The 
 Put the `.vimrc` file in `~/.vimrc`
 
 For tmux configuration, put `tmux.conf` in `~/.tmux.conf`
+
+For zsh config, put `.zshrc` in `~/.zshrc`
