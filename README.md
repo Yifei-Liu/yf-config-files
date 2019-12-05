@@ -4,6 +4,6 @@ The repository contains some configuration files I used for study and work. The 
 
 Put the `.vimrc` file in `~/.vimrc`, for the color scheme, I use molokai: https://github.com/tomasr/molokai, the `molokai.vim` should be resided in `~/.vim/colors`
 
-For tmux configuration, put `.tmux.conf` in `~/.tmux.conf`
+For tmux configuration, put `.tmux.conf` in `~/.tmux.conf`, to make the configuration effective, in tmux window, type `Ctrl+b` and then `:`, input `source-file ~/.tmux.conf`
 
 For zsh config, put `.zshrc` in `~/.zshrc`
