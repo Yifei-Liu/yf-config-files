@@ -23,6 +23,9 @@ set expandtab
 
 " Config for colors
 set background=dark
+" to fix tmux color change issue
+set t_Co=256
+
 " I use molokai, make sure to put 'molokai.vim' in '~/.vim/colors' directory
 colorscheme molokai
 
