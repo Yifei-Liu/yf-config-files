@@ -43,4 +43,4 @@ set cursorline
 " hightlight the search results
 set hlsearch
 
-
+set textwidth=70
